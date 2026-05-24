@@ -2,13 +2,6 @@
  
 ---
 
-<div style="display:flex; flex-direction:column; width:23em;">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=logantr13&layout=compact" alt="lengs">
- <img src="https://github-readme-stats.vercel.app/api?username=logantr13&show_icons=true" alt="status" >
-</div>
-
----
-
 <p align="left"> 
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
